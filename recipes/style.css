@@ -1,0 +1,27 @@
+/**
+Containts the entire recipe card
+Using the flex box row presents it vertically
+Starting witht he title, image, description, ingredients and steps
+**/
+.card
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+/**Contians the two lists of ingredients and steps
+**/
+.lists
+{
+
+}
+/**The list of ingredients**/
+.ingredients
+{
+
+}
+/**The list of steps**/
+.steps
+{
+
+}
